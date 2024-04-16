@@ -1,6 +1,7 @@
 //Print series 1,2,4,8,16,32,64. Given n=64
 
 #include<stdio.h>
+
 int main()
 {
     int n=64;
