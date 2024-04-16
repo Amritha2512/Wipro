@@ -1,4 +1,4 @@
-//Print series 0,3,8,15,24,35,48,63,80,99 given n=10
+//Print series 0,3,8,15,24,35,48,63,80,99. Given n=10
 
 #include<stdio.h>
 
